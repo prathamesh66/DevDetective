@@ -1,6 +1,6 @@
 * GitHub Profile App
 
-The GitHub Profile App is a web application that allows users to search for GitHub users and view their profiles, repositories, and activity. The app uses the GitHub API to fetch user data and display it in a user-friendly interface.
+The GitHub Profile App is a web application that allows users to search for GitHub users and view their profiles, repositories, and activity. The app uses the GitHub API to fetch user data and display it in a user-friendly interface..
 
 * Features
   
